@@ -21,7 +21,7 @@ The fashion eCommerce industry suffers from:
 - Significant financial losses for retailers
 
 Over $100B in material value is lost yearly due to returns. Less than 1% of clothing is recycled into new garments.
-![System Design ](https://github.com/GarbhitSh/Getryon-AI/blob/main/Workflow/architecture%20diagram.pnghttps://github.com/GarbhitSh/Getryon-AI/blob/main/Workflow/architecture%20diagram.png)
+![Alt text](https://github.com/GarbhitSh/Getryon-AI/blob/main/Workflow/architecture%20diagram.png)
 
 
 ## 🎯 Key Impacts
